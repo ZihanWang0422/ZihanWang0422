@@ -2,8 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on humanoid robot with model-based and learning-based methods.
 
 ![](https://komarev.com/ghpvc/?username=ZihanWang0422)
 
