@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on humanoid robot with model-based and learning-based methods.
+ 🔭 I’m currently working on humanoid robot with model-based and learning-based methods.
 
 ![](https://komarev.com/ghpvc/?username=ZihanWang0422)
 
