@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- 🔭 I’m currently working on humanoid robot with model-based and learning-based methods.
+I’m Zihan Wang.
 
 ![](https://komarev.com/ghpvc/?username=ZihanWang0422)
 
